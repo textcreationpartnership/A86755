@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and representation of several churches of God in London, commonly (though falsly) called Anabaptists. Which was presented on Monday the second of April, to the supream authority of the nation, the Commons assembled in Parliament. Together with the answer and approbation of the Parliament thereunto.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86755</idno><idno type="EEBO-CITATION">99864955</idno>
+  <idno type="VID">165011</idno>
+  <idno type="EEBO-PROQUEST">2248539594</idno>
+  
+            <idno type="STC">Wing H3441</idno>
+            <idno type="STC">Thomason E549_14</idno>
+            <idno type="STC">ESTC R205635</idno>
+            <idno type="PROQUEST">99864955</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864955e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165011)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E549[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and representation of several churches of God in London, commonly (though falsly) called Anabaptists. Which was presented on Monday the second of April, to the supream authority of the nation, the Commons assembled in Parliament. Together with the answer and approbation of the Parliament thereunto.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton and John Playford, and are to be sold at their shops in Fleet-street, and in the Inner Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Apr: 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165011:1"/>
+            <p>The humble PETITION AND REPRESENTATION OF Several Churches of God in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> commonly (though falsly) called ANABAPTISTS.</p>
+            <p>Which was presented on Monday the second of <hi>April,</hi> to the Supream Authority of the Nation, the Commons assembled in PARLIAMENT.</p>
+            <p>Together with the Answer and Approbation of the Parliament thereunto.</p>
+            <p>LONDON, Printed for <hi>Francis Tyton</hi> and <hi>John Playford,</hi> and are to be sold at their shops in Fleet-street, and in the Inner Temple. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:165011:2"/>
+            <pb n="3" facs="tcp:165011:2"/>
+            <head>TO THE Right Honourable THE <hi>COMMONS of ENGLAND</hi> assembled in PARLIAMENT;</head>
+            <head type="sub">The humble Petition and Representa<g ref="char:EOLhyphen"/>tion of several Churches of God in <hi>London,</hi> commonly, though falsly, called Anabaptists;</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat when we considered the late unnatural Wars, and the heavy pressures, grievous calami<g ref="char:EOLhyphen"/>ties, spoils and outrages that followed thereup<g ref="char:EOLhyphen"/>on, our hearts were exceeding sad; yet when we be<g ref="char:EOLhyphen"/>held the raging of those waves in a good measure
+<pb n="4" facs="tcp:165011:3"/>calmed, we were something cheered in the hopeful expectation of a safe harbour for this Nation, having nigh suffered shipwrack by more then seven years distress.</p>
+            <p>But with great grief we acknowledg out fears have of late been renewed, by reason of those many obstructions which have interrupted the settlement of the Liberty and Freedom of this distressed Com<g ref="char:EOLhyphen"/>mon-wealth, which when we seriously mind, consider<g ref="char:EOLhyphen"/>ing also that a Printed Paper, entituled, <hi>The second part of Englands new Chains discovered,</hi> was publikely, read in the time and place of solemn publike meet<g ref="char:EOLhyphen"/>ing on the 25 of <hi>March</hi> last, to the intent, those then present might subscribe it; and well weighing how through the injustice of Historians, or the headiness of some unruly men formerly in <hi>Germany</hi> called <hi>Anabaptists,</hi> our righteous profession heretofore hath been, and now may be made odious, as if it were the Fountain and Source of all Disobedience, Presump<g ref="char:EOLhyphen"/>tion, Self-wil, Contempt of Rulers, Dignities, and Civil Government whatsoever: And fearing if we should be silent, such surmises might justly beget jea<g ref="char:EOLhyphen"/>lousies of us, and our peaceable meetings, both in the thoughts of this Honorable House, and many others: We thought our selves bound in duty to God, to this Honorable House, the Common-wealth, and the Truth, (which is dearer to us then our lives,) hum<g ref="char:EOLhyphen"/>bly to Remonstrate;</p>
+            <p>That we neither had nor have heart nor hand in the framing, contriving, abetting or promoting of the said Paper, which though read in several of our pub<g ref="char:EOLhyphen"/>like
+<pb n="5" facs="tcp:165011:3"/>meetings, we do solemnly profess it was without our consent or approbation, being there openly op<g ref="char:EOLhyphen"/>posed by us.</p>
+            <p>That our meetings are not at all to intermeddle with the ordering or altering Civil Government (which we humbly and submissively leave unto the supream Power,) but solely for the advancement of the Gospel. It being our grief that our meetings should be perverted to any sinister ends, or earthly re<g ref="char:EOLhyphen"/>spects whatsoever, whereby the spiritual seed of the Word should be stifled or hindered, which precious time we earnestly desire with much seriousness and solemnity might be improved to the Worship of our God.</p>
+            <p>That it hath bin, and ever shal be our endevor in our several stations &amp; callings, to advance what may tend to the Nations good, wherein we live, no way complying with the disturbers therof; that so we may approve our selves a People never to be justly adjudged heady, high minded, or despisers of them that are in autho<g ref="char:EOLhyphen"/>rity; but as much as in us lyes, such as desire to live peaceably and quietly under Magistrates, and with all men.</p>
+            <p>That we doe thankfully take notice of that good hand of God, in affording to us the mercy of liveing peaceably and quietly without molestation, in the profession of godliness, and honesty, under your Au<g ref="char:EOLhyphen"/>thority and Jurisdiction, hoping, and earnstly pray<g ref="char:EOLhyphen"/>ing, that God will be pleased to repair the breaches of this wasted Nation, and cause it, through you, as instruments, more to flourish then in former days.</p>
+            <pb n="6" facs="tcp:165011:4"/>
+            <p>
+               <hi>We beseech you, that what you have found in your hearts to express before all the world for the set<g ref="char:EOLhyphen"/>ling of the Common-Wealth, the releiving of the oppressed, removing all the grievances of the peo<g ref="char:EOLhyphen"/>ple, and providing for the languishing condition of the poor of this Nation: that you would do it speedily, with all your might, that thereby all in<g ref="char:EOLhyphen"/>terests might receive just satisfaction; the want whereof, will certainly occasion matter of sadness to your selves, and hazard to the Nation.</hi>
+            </p>
+            <p>
+               <hi>That you <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould effectually provide for the making, and due execution of sufficient Laws a<g ref="char:EOLhyphen"/>gainst wheredoms, Drunkenness, Cheating, and all such like abominations (of civil Cog<g ref="char:EOLhyphen"/>nizance) in whomsoever, for which things sake this Land mourns, and the wrath of God is provoked against it: by doing whereof, you will answer the proper and of Magistracy, in being a terror to evil doers, and a praise to them that do well.</hi>
+            </p>
+            <closer>And Your Petitioners shall ever pray, &amp;c.</closer>
+         </div>
+         <div type="answer_to_petition">
+            <pb n="7" facs="tcp:165011:4"/>
+            <head>
+               <hi>Die Lunae,</hi> 2. April. 1649.</head>
+            <p>THe House being informed, that divers Petitioners were at the Door, they were Ordered to be called in, and be<g ref="char:EOLhyphen"/>ing come to the Bar, Mr KIFFIN presented a Petition, speaking to this effect; Mr Speaker, we have not troubled this honorable House with any Petition, nor had done it now, had not we been necessitated thereunto by a late Paper called Englands second Chains, brought to our Congregations, and publique<g ref="char:EOLhyphen"/>ly read in some of our publique Meetings, without our consent or approbation, being there openly opposed by us, and we could do no less, in conscience of our duty to God and you, then to disown and disavow it.</p>
+            <p>The Petition being received, which was entituled thus; The humble Petition and Representation of several Churches of God in London, commonly though falsly, called Anabaptists, the Petitioners withdrew, and the Petition was read.</p>
+            <pb n="8" facs="tcp:165011:5"/>
+            <p>The Petitioners being again called in, Mr Speaker returned them this Answer:</p>
+            <p>The House doth take notice of the good Affection to the Parliament and Publique, you have exprest both in this Petition and o<g ref="char:EOLhyphen"/>therways; That they have received satisfa<g ref="char:EOLhyphen"/>ction thereby, concerning your disclaiming of that Pamphlet, which gave such just Of<g ref="char:EOLhyphen"/>fence to the Parliament, and also concerning your disposition to live peaceably, and in sub<g ref="char:EOLhyphen"/>mission to the civil Magistracy: Your expres<g ref="char:EOLhyphen"/>sions whereof they account very christian and seasonable: That for your selves and other Christians walking answerable to such Pro<g ref="char:EOLhyphen"/>fessions, as in this Petition you make, They do assure you of Liberty and protection, so far as God shall enable them, in all things consistent with Godliness, Honesty and civil Peace: And the House doth give you leave to print your Petition.</p>
+            <closer>
+               <signed>Hen: Scobel, Cler Parliament.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
